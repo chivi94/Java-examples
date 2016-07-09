@@ -1,0 +1,22 @@
+<items>
+    <item>
+        <name>abrir archivo</name>
+        <ruta>Archivo - Abrir</ruta>
+        <text>Seleccione el archivo cuyo contenido quiere abrir, a través del selector de ficheros mostrado.</text>
+    </item>
+    <item>
+        <name>cerrar archivo</name>
+        <ruta>Archivo - Cerrar</ruta>
+        <text>Cierra el archivo abierto.</text>
+    </item>
+    <item>
+        <name>cambiar color fuente</name>
+        <ruta>Edición - Cambiar color fuente</ruta>
+        <text>Le permite cambiar el color de la fuente del texto del archivo mostrado.</text>
+    </item>
+    <item>
+        <name>salir aplicación</name>
+        <ruta>Aplicación - Salir</ruta>
+        <text>Finaliza la aplicación.</text>
+    </item>
+</items>
