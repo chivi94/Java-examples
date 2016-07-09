@@ -1,0 +1,1 @@
+http://quartz-scheduler.org/documentation/quartz-1.x/tutorials/crontrigger
